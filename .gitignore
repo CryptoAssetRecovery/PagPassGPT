@@ -1,0 +1,6 @@
+model/
+dataset/
+generate/
+__pycache__/
+
+*.txt
